@@ -1,0 +1,45 @@
+Type=Control
+UserControl=AlphaBlend.ctl
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\WINNT\System32\stdole2.tlb#OLE Automation
+Startup="(None)"
+HelpFile=""
+RequireLicenseKey=1
+Title="Alpha Blend Control"
+ExeName32="AlphaBlend.ocx"
+Command32=""
+Name="ctlAlphaBlend"
+HelpContextID="0"
+Description="TKPS Form AlphaBlend Control"
+CompatibleMode="1"
+CompatibleEXE32="AlphaBlend.ocx"
+MajorVer=1
+MinorVer=0
+RevisionVer=21
+AutoIncrementVer=1
+ServerSupportFiles=0
+VersionComments="This control sets the transparency of it's parent form. (0 = Transparent, 255 = Opaque)"
+VersionCompanyName="TechKnow Professional Services  Written by James Johnston  (jjohnston@email4life.com)"
+VersionFileDescription="This control sets the transparency of it's parent form. (0 = Transparent, 255 = Opaque)"
+VersionLegalCopyright="Copyright © 2001, TKPS"
+VersionProductName="Alpha Blend Control"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=1
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+ThreadingModel=1
+DebugStartupOption=1
+DebugStartupComponent=AlphaBlend
+
+[MS Transaction Server]
+AutoRefresh=1
